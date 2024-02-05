@@ -11,6 +11,8 @@ public class HomePage {
 
     //logo
 
+    //footer
+
 
 
 }
